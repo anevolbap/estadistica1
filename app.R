@@ -1,5 +1,10 @@
 ##
-## Applet de la normal
+## Histogramas de algunas distribuciones discretas.
+## 
+## TO DO: 
+##  - arreglar la dependencia de parámetro de la hipergeométrica o la BN
+##  - agregar la esperanza
+##  - embellecer los graficos (fijar la escala, cambiar colores y agregar abajo el rango)
 ##
 
 library(rmarkdown)
