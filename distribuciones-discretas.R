@@ -21,14 +21,7 @@ ui <- fluidPage(
                                            "Poisson" = "pois",
                                            "Geométrica" = "geom",
                                            "Hipergeométrica" = "hipergeom",
-                                           "Binomial negativa" = "binomneg"
-                                           ## "Uniforme" = "unif",
-                                           ## "Normal" = "norm",
-                                           ## "Exponencial" = "exp",
-                                           ## "Log-normal" = "logn",
-                                           ## "T-Student" = "student",
-                                           ## "Cauchy" = "cauchy"
-                                           ),
+                                           "Binomial negativa" = "binomneg"),
                             selected = 1),
 
                 ## Input: cantidad de observaciones
